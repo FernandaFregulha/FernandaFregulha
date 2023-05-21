@@ -6,8 +6,6 @@
 :computer: I'm Full-Stack Developer!
 
 :house_with_garden: I’m from Brazil.
-
-:books: I’m currently learning everything.
 <!DOCTYPE html>
 <html>
 <head>
@@ -87,7 +85,6 @@
   </script>
 </body>
 </html>
-
 
 
 :outbox_tray: 2021 Goals: create a new project and find a new job.
