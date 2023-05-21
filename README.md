@@ -1,99 +1,44 @@
-### Hello visitor! 👋
-## I'm Fernanda Fregulha!
+## Hello visitor! 👋
 
- 
+[en-US] Hello, my name is Fernanda Fregulha. I am a student of Analysis and Systems Development and I am looking for opportunities to gain experience as a developer. Currently, I have knowledge and familiarity with HTML, CSS, JavaScript, WordPress, Elementor, Linux, Kotlin, Python, PHP, Scrum, and Kanban. Additionally, I am seeking to expand my knowledge in other languages and tools such as Angular, Docker, SQL, AWS, and Oracle.
 
-:computer: I'm Full-Stack Developer!
+[pt-BR] Olá, meu nome é Fernanda Fregulha. Sou estudante de Análise e Desenvolvimento de Sistemas e estou em busca de oportunidades para adquirir experiência como desenvolvedora. Atualmente, tenho conhecimentos e familiaridade com HTML, CSS, JavaScript, WordPress, Elementor, Linux, Kotlin, Python, PHP, Scrum e Kanban. Além disso, estou buscando ampliar meus conhecimentos em outras linguagens e ferramentas, como Angular, Docker, SQL, AWS e Oracle. 
 
-:house_with_garden: I’m from Brazil.
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Gráfico de Pizza</title>
-  <style>
-    .chart-container {
-      width: 300px;
-      height: 300px;
-      position: relative;
-    }
+<br>
 
-    .chart-text {
-      font-family: Arial, sans-serif;
-      font-size: 14px;
-      text-anchor: middle;
-      fill: #ffffff;
-      font-weight: bold;
-    }
-  </style>
-</head>
-<body>
-  <div class="chart-container">
-    <svg id="chart"></svg>
-    <div class="chart-text">Gráfico de Pizza</div>
-  </div>
+<!-- GITHUB STATUS -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandaFregulha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
 
-  <script src="https://d3js.org/d3.v4.min.js"></script>
-  <script>
-    // Dados do gráfico
-    var data = [
-      { label: "CSS", value: 10, color: "#ffa500" },
-      { label: "HTML", value: 10, color: "#ffa500" },
-      { label: "Python", value: 10, color: "#ffa500" },
-      { label: "SQL", value: 5, color: "#ffd700" },
-      { label: "Oracle", value: 5, color: "#ffd700" },
-      { label: "PHP", value: 5, color: "#ffd700" },
-      { label: "JavaScript", value: 30, color: "#ff0000" },
-      { label: "Kotlin", value: 20, color: "#ff0000" },
-      { label: "Java", value: 15, color: "#ff0000" }
-    ];
+<br>
 
-    // Configurações do gráfico
-    var width = 300;
-    var height = 300;
-    var radius = Math.min(width, height) / 2;
-    var svg = d3.select("#chart")
-      .attr("width", width)
-      .attr("height", height);
-    var g = svg.append("g")
-      .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
-
-    // Função para calcular o ângulo
-    var pie = d3.pie()
-      .sort(null)
-      .value(function(d) { return d.value; });
-
-    // Gerar os arcos
-    var path = d3.arc()
-      .outerRadius(radius - 10)
-      .innerRadius(0);
-
-    // Gerar o gráfico de pizza
-    var arc = g.selectAll(".arc")
-      .data(pie(data))
-      .enter().append("g")
-        .attr("class", "arc");
-
-    arc.append("path")
-      .attr("d", path)
-      .attr("fill", function(d) { return d.data.color; });
-
-    arc.append("text")
-      .attr("transform", function(d) { return "translate(" + path.centroid(d) + ")"; })
-      .attr("dy", "0.35em")
-      .text(function(d) { return d.data.label; })
-      .attr("class", "chart-text");
-  </script>
-</body>
-</html>
+<!-- TECHNOLOGIES -->
+<div align="center">
+  <img alt="HTML" src="https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5">
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3">
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript">
+  <img alt="WordPress" src="https://img.shields.io/badge/-WordPress-black?style=flat-square&logo=wordpress">
+  <img alt="Elementor" src="https://img.shields.io/badge/-Elementor-black?style=flat-square&logo=elementor">
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux">
+  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin">
+  <img alt="Python" src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python">
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php">
+  <img alt="Angular" src="https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular">
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker">
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql">
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws">
+  <img alt="Oracle" src="https://img.shields.io/badge/-Oracle-black?style=flat-square&logo=oracle">
+  <img alt="Scrum" src="https://img.shields.io/badge/-Scrum-black?style=flat-square&logo=scrum">
+  <img alt="Kanban" src="https://img.shields.io/badge/-Kanban-black?style=flat-square&logo=kanban">
+</div>
 
 
-:outbox_tray: 2021 Goals: create a new project and find a new job.
-CSS: ![CSS](https://img.shields.io/badge/-CSS-ffa500?style=for-the-badge&logo=css3&logoColor=black)
-HTML: ![HTML](https://img.shields.io/badge/-HTML-ffa500?style=for-the-badge&logo=html5&logoColor=black)
-Python: ![Python](https://img.shields.io/badge/-Python-ffa500?style=for-the-badge&logo=python&logoColor=black)
-SQL: ![SQL](https://img.shields.io/badge/-SQL-ffd700?style=for-the-badge&logo=sql&logoColor=black)
-Oracle: ![Oracle](https://img.shields.io/badge/-Oracle-ffd700?style=for-the-badge&logo=oracle&logoColor=black)
-PHP: ![PHP](https://img.shields.io/badge/-PHP-ffd700?style=for-the-badge&logo=php&logoColor=black)
-JavaScript: ![JavaScript](https://img.shields.io/badge/-JavaScript-ff0000?style=for-the-badge&logo=javascript&logoColor=black)
-Kotlin: ![Kotlin](https://img.shields.io/badge/-Kotlin-ff0000?style=for-the-badge&logo=kotlin&logoColor=black)
-Java: ![Java](https://img.shields.io/badge/-Java-ff0000?style=for-the-badge&logo=java&logoColor=black)
+<!-- REDES SOCIAIS -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/fernandafregulha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://web.digitalinnovation.one/users/fernandafregulha?tab=achievements" target="_blank"><img src="https://img.shields.io/badge/-DIO-%231572B6?style=for-the-badge&logo=digitalocean&logoColor=white" target="_blank"></a>
+<a href="mailto:fernandafregulha@gmail.com" target="_blank"><img src="https://play-lh.googleusercontent.com/D1Dz2BjPYev_oyksKXsdtAS66a_2Ql-sklpzTnwR9lqnDG_P5lAJEtfR70FudJ0XMA=s48-rw" style="width: 28px" target="_blank"></a>  
+  
+  ![](https://visitor-badge.glitch.me/badge?page_id=matheuslmarchetti)
+</div>
