@@ -41,7 +41,7 @@
 
 ## ✨ Contribution
 <p align="center">
-  <img src="https://github.com/FernandaFregulha/FernandaFregulha/raw/main/lumos_only_contributions.svg" alt="LUMOS Magical Contributions" />
+  <img src="https://github.com/FernandaFregulha/lumos-contributions/raw/main/assets/lumos_contributions.svg" alt="LUMOS Magical Contributions" />
 </p>
 
 <p align="center"><i>“Those patient Hufflepuffs are true, and unafraid of toil.” 🪄🎩🦡 </i></p>
