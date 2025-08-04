@@ -39,10 +39,9 @@
 
 ---
 
-## Contribution
+## ✨ Contribution Magic
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github.com/FernandaFregulha/FernandaFregulha/raw/main/lumos_only_contributions.svg" alt="LUMOS Magical Contributions" />
 </p>
 
 <p align="center"><i>“Those patient Hufflepuffs are true, and unafraid of toil.” 🪄🎩🦡 </i></p>
-
