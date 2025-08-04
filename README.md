@@ -39,7 +39,7 @@
 
 ---
 
-## ✨ Contribution Magic
+## ✨ Contribution
 <p align="center">
   <img src="https://github.com/FernandaFregulha/FernandaFregulha/raw/main/lumos_only_contributions.svg" alt="LUMOS Magical Contributions" />
 </p>
