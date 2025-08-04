@@ -1,4 +1,4 @@
-<!-- Texto animado digitando -->
+<!-- Typing animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FFD700&size=28&center=true&vCenter=true&width=650&lines=Hello,+I'm+Fernanda+Fregulha!;Full-Stack+Developer+⚡;Java+%7C+Spring+Boot+%7C+Microservices" alt="Typing SVG" />
 </p>
@@ -6,9 +6,9 @@
 ---
 
 ## ✨ About Me  
-🪄 Full-Stack Developer passionate about crafting scalable and secure applications  
-⚡ Focused on **Java | Spring Boot | Microservices | Cloud**  
-💛 Guided by loyalty, dedication, and fairness  
+🪄 Full-Stack Developer passionate about building scalable and secure applications  
+⚡ Specialized in **Java | Spring Boot | Microservices | Cloud**  
+✨ 2+ years of experience building impactful applications  
 
 ---
 
@@ -39,9 +39,9 @@
 
 ---
 
-## ✨ Contribution
+## ✨ Contribution  
 <p align="center">
-  <img src="https://github.com/FernandaFregulha/lumos-contributions/raw/main/assets/lumos_contributions.svg" alt="LUMOS Magical Contributions" />
+  <img src="lumos_wave_final_full.svg" alt="LUMOS Magical Contributions" />
 </p>
 
-<p align="center"><i>“Those patient Hufflepuffs are true, and unafraid of toil.” 🪄🎩🦡 </i></p>
+<p align="center"><i>“Those patient Hufflepuffs are true, and unafraid of toil.” 🪄🎩🦡</i></p>
